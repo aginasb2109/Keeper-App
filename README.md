@@ -1,6 +1,6 @@
-# dKeeper
+# Keeper App
 
-**dKeeper** is a decentralized note-keeping application inspired by Google Keep. Built using the **Internet Computer** framework, it leverages decentralized technologies to store and manage notes securely on the blockchain. With **dKeeper**, users can manage their personal notes without relying on traditional cloud services, giving them full control over their data.
+**Keeper App** is a decentralized note-keeping application inspired by Google Keep. Built using the **Internet Computer** framework, it leverages decentralized technologies to store and manage notes securely on the blockchain. With **dKeeper**, users can manage their personal notes without relying on traditional cloud services, giving them full control over their data.
 
 ---
 
